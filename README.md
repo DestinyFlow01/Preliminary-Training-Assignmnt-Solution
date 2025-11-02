@@ -17,9 +17,9 @@ Solution for the preliminary training before entering the real code.
    - **a. Shooting method**  
    - **b. Pair of IVPs**  
    - **c. Crocco's transformation**
-   - **d. Solving energy equation for flow over flat plate with $Ec \neq 0$**
+   - **d. Solving both momentum and energy equation with $Ec \neq 0$**
 
-   For all of these methods, you will need to determine the Blasius constant. You may take it directly from *Frank M. White*, but it is better to start with a random initial value of σ and optimize it until the result matches the known value with at least **10⁻¹⁰ % accuracy**.
+   For all of these methods, you will need to determine the Blasius constant. You may take it directly from *Frank M. White*, but it is better to start with a random initial value of σ and optimize it until the result matches the known value with at least **O(10⁻¹⁰) % accuracy**.
 
 ---
 
