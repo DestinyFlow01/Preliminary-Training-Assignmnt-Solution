@@ -1,0 +1,18 @@
+﻿  Assignment 2 BlausiusSolver_ShootingMethod.cpp
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\MainControl.h(4,42): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'Assignment%202%20BlausiusSolver_ShootingMethod.cpp')
+  
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\MainControl.h(10,45): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'Assignment%202%20BlausiusSolver_ShootingMethod.cpp')
+  
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\MainControl.h(13,36): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'Assignment%202%20BlausiusSolver_ShootingMethod.cpp')
+  
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod.cpp(19,28): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod.cpp(19,28): warning C4244:         with
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod.cpp(19,28): warning C4244:         [
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod.cpp(19,28): warning C4244:             _Rep=__int64
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod\Assignment 2 BlausiusSolver_ShootingMethod.cpp(19,28): warning C4244:         ]
+  Assignment 2 BlausiusSolver_ShootingMethod.vcxproj -> D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_ShootingMethod\x64\Debug\Assignment 2 BlausiusSolver_ShootingMethod.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
