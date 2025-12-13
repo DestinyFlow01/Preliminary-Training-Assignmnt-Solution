@@ -1,0 +1,13 @@
+﻿  Assignment 2 BlausiusSolver_PairOfIVP.cpp
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP\BlausiusSolver.h(4,42): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'Assignment%202%20BlausiusSolver_PairOfIVP.cpp')
+  
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP.cpp(42,28): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP.cpp(42,28): warning C4244:         with
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP.cpp(42,28): warning C4244:         [
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP.cpp(42,28): warning C4244:             _Rep=__int64
+D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP\Assignment 2 BlausiusSolver_PairOfIVP.cpp(42,28): warning C4244:         ]
+LINK : warning LNK4044: unrecognized option '/march=native'; ignored
+  Assignment 2 BlausiusSolver_PairOfIVP.vcxproj -> D:\Document\Itb\OTODIDAK\Viscous Flow\Assignment 2 BlausiusSolver_PairOfIVP\x64\Debug\Assignment 2 BlausiusSolver_PairOfIVP.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
